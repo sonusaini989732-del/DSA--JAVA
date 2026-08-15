@@ -23,5 +23,14 @@
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0628-maximum-product-of-three-numbers) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
