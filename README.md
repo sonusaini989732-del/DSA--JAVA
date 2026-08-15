@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0162-find-peak-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0704-binary-search) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -11,6 +12,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0704-binary-search) |
 ## Sorting
 |  |
