@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1796-second-largest-digit-in-a-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/1796-second-largest-digit-in-a-string) |
 ## Counting Sort
 |  |
 | ------- |
@@ -83,4 +84,8 @@
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/3477-fruits-into-baskets-ii) |
+## String
+|  |
+| ------- |
+| [1796-second-largest-digit-in-a-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/1796-second-largest-digit-in-a-string) |
 <!---LeetCode Topics End-->
