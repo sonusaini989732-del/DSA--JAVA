@@ -32,6 +32,7 @@
 | [0258-add-digits](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2235-add-two-integers](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/2413-smallest-even-multiple) |
 ## Simulation
 |  |
