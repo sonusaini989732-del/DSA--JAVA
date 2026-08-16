@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0162-find-peak-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0704-binary-search) |
@@ -64,6 +65,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
