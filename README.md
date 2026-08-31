@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0162-find-peak-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -67,6 +68,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -90,4 +92,8 @@
 | ------- |
 | [0344-reverse-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0344-reverse-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/1796-second-largest-digit-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
