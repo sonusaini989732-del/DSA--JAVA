@@ -54,6 +54,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/1796-second-largest-digit-in-a-string) |
 ## Counting Sort
@@ -65,6 +66,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,9 +93,14 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0567-permutation-in-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/1796-second-largest-digit-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
