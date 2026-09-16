@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0162-find-peak-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -24,6 +25,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -65,6 +67,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
@@ -103,4 +106,12 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0567-permutation-in-string) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
