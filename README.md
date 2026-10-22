@@ -11,6 +11,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0162-find-peak-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0704-binary-search) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0682-baseball-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/3477-fruits-into-baskets-ii) |
 ## Number Theory
 |  |
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
