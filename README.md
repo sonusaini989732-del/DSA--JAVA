@@ -58,6 +58,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0141-linked-list-cycle) |
 | [0567-permutation-in-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/1796-second-largest-digit-in-a-string) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
@@ -120,4 +122,12 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0682-baseball-game) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
