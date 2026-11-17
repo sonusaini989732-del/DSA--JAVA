@@ -122,6 +122,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0682-baseball-game) |
 ## Linked List
 |  |
@@ -132,4 +133,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
