@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0162-find-peak-element) |
+| [0496-next-greater-element-i](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0704-binary-search) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0141-linked-list-cycle) |
+| [0496-next-greater-element-i](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/1796-second-largest-digit-in-a-string) |
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0682-baseball-game) |
 ## Linked List
 |  |
@@ -137,4 +140,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
