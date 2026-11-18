@@ -50,6 +50,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0844-backspace-string-compare) |
 | [3477-fruits-into-baskets-ii](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/3477-fruits-into-baskets-ii) |
 ## Number Theory
 |  |
@@ -76,6 +77,7 @@
 | [0141-linked-list-cycle](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | ------- |
 | [0344-reverse-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0844-backspace-string-compare) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/1796-second-largest-digit-in-a-string) |
 ## Divide and Conquer
 |  |
@@ -127,6 +130,7 @@
 | [0155-min-stack](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0844-backspace-string-compare) |
 ## Linked List
 |  |
 | ------- |
