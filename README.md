@@ -108,6 +108,7 @@
 | [0344-reverse-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/1796-second-largest-digit-in-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/2390-removing-stars-from-a-string) |
 ## Divide and Conquer
@@ -133,6 +134,7 @@
 | [0496-next-greater-element-i](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
