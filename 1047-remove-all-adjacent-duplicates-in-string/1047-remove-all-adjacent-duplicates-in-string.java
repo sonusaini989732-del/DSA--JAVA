@@ -12,7 +12,7 @@ class Solution {
         }
         String ans="";
         while(!st.isEmpty()) {
-            ans= st.pop() +ans;
+            ans=st.pop()+ans;
         }
         return ans;
     }
