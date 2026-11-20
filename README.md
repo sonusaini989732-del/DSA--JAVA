@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0075-sort-colors) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0344-reverse-string) |
