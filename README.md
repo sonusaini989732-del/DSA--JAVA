@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -96,6 +98,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0509-fibonacci-number) |
 ## Segment Tree
 |  |
