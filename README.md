@@ -137,6 +137,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0739-daily-temperatures) |
@@ -156,9 +157,14 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0225-implement-stack-using-queues) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0739-daily-temperatures) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sonusaini989732-del/DSA--JAVA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
